@@ -1,10 +1,17 @@
+![](media/000c259394997a4a2be1e2b11465b55d.png)
 
-WangShaolinCF
+**WangShaolinCF**
 
-ClassFinal
+***
 
+**ClassFinal**
 
-特点：
+![](media/4c59838c9f143479b57b507ef750274d.png)
+
+**  
+**
+
+**特点：**
 
 1.加解密代码采用JNI方式，隐藏所有实现细节，防止被内存解密，从而保证更安全；
 
@@ -18,35 +25,37 @@ ClassFinal
 
 6.可按需配置运行参数-XX:+DisableAttachMechanism等参数，防止Attach内存代码；
 
-界面：
+**界面：**
 
+![](media/a5125988e923b94c7e3a7582766b54ef.png)
 
+**演示：**
 
-演示：
+**![](media/5dd73cdf06eeca820f2a13eae2839d65.png)**
 
+**运行：**
 
+![](media/1e0318b9e3c7c7e8b3e2da85d2701214.png)
 
-运行：
+**清除：**
 
+![](media/96722e10503520e8226a1945b029bef7.png)
 
+**平台：**
 
-清除：
+![](media/7e7565df866e3a1789041e62275921b8.png)
 
+**业务：**
 
+![](media/2598eb46027a551dce1dac0ba13533ad.png)
 
-平台：
+**配置：**
 
+![](media/67dfed88065127d0bce962965fbca242.png)
 
+**加群：**
 
-业务：
+![](media/856518f5ceff881f89f6e7459237b720.png)
 
-
-
-配置：
-
-
-
-加群：
-
-QQ：767688909
+QQ：767688909  
 QQ Group 01：693795906
